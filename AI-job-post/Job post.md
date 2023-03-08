@@ -18,16 +18,16 @@ Recently we successfully demonstrated omnichain DeFi aggregations that showed a 
 
 #### Your benefits will include:
 - Decent development environment, including almost unlimited use of GCP,
-True creative, inspiring workplace, working together with ambitious CEO and data scientists,
-- A seamless market data collecting tool that will completely free you from missing, upside-down, or slipped price data points, in a fastest manner,
-- A most flexible trading bot framework that you can configure with your ML models,
+- True creative, inspiring workplace, working together with the ambitious CEO and data scientists,
 - Access to the latest blockchain and DeFi techniques, which is emerging as the next AI arena with freely available big data and huge asset circulation.
+- A seamless market data collecting tool, with source code, that will completely free you from missing, upside-down, or slipped price data points, in a fastest manner,
+- A most flexible trading bot framework, with source code, that you can configure with your ML models,
 <br/>
 
 #### You are expected to:
 - Be familiar with minimal, yet deep fundamentals of NLP and generative modeling,
 - Be a creative data scientist who can handle ML tools on their own,
-- Not be an if-then ML engineer or copy-and-paste programmer,
+- Not be an if-then old ML engineer or a copy-and-paste programmer,
 <br/>
 
 #### Suggested terms and conditions:
