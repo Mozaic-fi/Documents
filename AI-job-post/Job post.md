@@ -26,7 +26,7 @@ True creative, inspiring workplace, working together with ambitious CEO and data
 
 #### You are expected to:
 - Be familiar with minimal, yet deep fundamentals of NLP and generative modeling,
-Be a creative data scientist who can handle ML tools on their own,
+- Be a creative data scientist who can handle ML tools on their own,
 - Not be an if-then ML engineer or copy-and-paste programmer,
 <br/>
 
