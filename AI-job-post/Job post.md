@@ -7,9 +7,11 @@ Recently we successfully demonstrated omnichain DeFi aggregations that showed a 
 - Developing your own ML models that predict the optimal staking portfolio at intervals,
 - Or, collaborate with other data scientists to develop ML models.
 <br/>
+
 #### You will be supported by
 - the data engineering team and supervised by the CEO, who has extensive experience in trading and price prediction.
 <br/>
+
 #### Your benefits will include:
 - Decent development environment, including almost unlimited use of GCP,
 True creative, inspiring workplace, working together with ambitious CEO and data scientists,
@@ -17,6 +19,7 @@ True creative, inspiring workplace, working together with ambitious CEO and data
 - A most flexible trading bot framework that you can configure with your ML models,
 - Access to the latest blockchain and DeFi techniques, which is emerging as the next AI arena with freely available big data and huge asset circulation.
 <br/>
+
 #### You are expected to:
 - Be familiar with minimal, yet deep fundamentals of NLP and generative modeling,
 Be a creative data scientist who can handle ML tools on their own,
@@ -35,61 +38,60 @@ You will be given technical interviews **with the focus on data science and time
 
 #### Basic ML techniques required for time series/sequential modeling
 
-Backpropagation
-Implement the XOR  gate using backpropagation, without using existing gradient tools. The number of layers/neurons should not be hard-coded.
-http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
+##### Backpropagation
 
-Losses
-https://keras.io/api/losses/
-https://www.tensorflow.org/api_docs/python/tf/keras/losses
+- Implement the XOR  gate using backpropagation, without using existing gradient tools. The number of layers/neurons should not be hard-coded.
+- http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
 
-Optimizers
-https://keras.io/api/optimizers/
-https://www.tensorflow.org/api_docs/python/tf/keras/optimizers
+##### Losses
+- https://keras.io/api/losses/
+- https://www.tensorflow.org/api_docs/python/tf/keras/losses
 
-Timeseries
-https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
-Implement the LSTM model with python.
-https://keras.io/examples/timeseries/timeseries_classification_transformer/
-https://keras.io/examples/timeseries/timeseries_classification_transformer/
-https://keras.io/examples/timeseries/timeseries_anomaly_detection/
-https://keras.io/examples/timeseries/timeseries_weather_forecasting/
+##### Optimizers
+- https://keras.io/api/optimizers/
+- https://www.tensorflow.org/api_docs/python/tf/keras/optimizers
 
-Normalization
-https://arxiv.org/pdf/1502.03167.pdf
+##### Timeseries
+- https://stanford.edu/~shervine/teaching/cs-230/
+- cheatsheet-recurrent-neural-networks
+- Implement the LSTM model with python.
+- https://keras.io/examples/timeseries/timeseries_classification_transformer/
+- https://keras.io/examples/timeseries/timeseries_anomaly_detection/
+- https://keras.io/examples/timeseries/timeseries_weather_forecasting/
 
-Regularization
-https://cedar.buffalo.edu/~srihari/CSE574/Chap5/Chap5.5-Regularization.pdf
-https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+##### Normalization
+- https://arxiv.org/pdf/1502.03167.pdf
 
+##### Regularization
+- https://cedar.buffalo.edu/~srihari/CSE574/Chap5/Chap5.5-Regularization.pdf
+- https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
 
-Word embeddings
-http://home.ustc.edu.cn/~yaoyaq/Signals/Word_Embedding.pdf
-https://www.tensorflow.org/text/guide/word_embeddings
-https://www.tensorflow.org/tutorials/text/word2vec
-https://www.tensorflow.org/text/guide/word_embeddings
+##### Word embeddings
+- http://home.ustc.edu.cn/~yaoyaq/Signals/Word_Embedding.pdf
+- https://www.tensorflow.org/text/guide/word_embeddings
+- https://www.tensorflow.org/tutorials/text/word2vec
+- https://www.tensorflow.org/text/guide/word_embeddings
 
-Attention/Transformer
-https://arxiv.org/pdf/1706.03762.pdf
-https://colab.research.google.com/github/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/tensorflow/transformer.ipynb
-https://keras.io/examples/nlp/neural_machine_translation_with_transformer/
+##### Attention/Transformer
+- https://arxiv.org/pdf/1706.03762.pdf
+- https://colab.research.google.com/github/dlmacedo/starter-academic/blob/master/
+- content/courses/deeplearning/notebooks/tensorflow/transformer.ipynb
+- https://keras.io/examples/nlp/neural_machine_translation_with_transformer/
 
+##### BERT
+- https://arxiv.org/pdf/1810.04805.pdf
+- https://www.tensorflow.org/text/guide/bert_preprocessing_guide
+- https://www.tensorflow.org/tfmodels/nlp
+- https://www.tensorflow.org/text/guide/bert_preprocessing_guide
+- https://keras.io/examples/nlp/text_extraction_with_bert/
 
-BERT
-https://arxiv.org/pdf/1810.04805.pdf
-https://www.tensorflow.org/text/guide/bert_preprocessing_guide
-https://www.tensorflow.org/tfmodels/nlp
-https://www.tensorflow.org/text/guide/bert_preprocessing_guide
-https://keras.io/examples/nlp/text_extraction_with_bert/
+##### Autoencoders
+- https://cedar.buffalo.edu/~srihari/CSE676/14.1%20Autoencoders.pdf
+- https://arxiv.org/pdf/2003.05991.pdf
+- https://arxiv.org/pdf/1906.02691.pdf
+- https://www.tensorflow.org/tutorials/generative/autoencoder
+- https://www.tensorflow.org/tutorials/generative/cvae
 
-Autoencoders
-https://cedar.buffalo.edu/~srihari/CSE676/14.1%20Autoencoders.pdf
-https://arxiv.org/pdf/2003.05991.pdf
-https://arxiv.org/pdf/1906.02691.pdf
-https://www.tensorflow.org/tutorials/generative/autoencoder
-https://www.tensorflow.org/tutorials/generative/cvae
-
-
-GAN
+##### GAN
 https://arxiv.org/pdf/1701.00160.pdf
 
