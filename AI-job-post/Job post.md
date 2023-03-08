@@ -9,7 +9,11 @@ Recently we successfully demonstrated omnichain DeFi aggregations that showed a 
 <br/>
 
 #### You will be supported by
-- the data engineering team and supervised by the CEO, who has extensive experience in trading and price prediction.
+- the data engineering team
+<br/>
+
+#### You will be supervised by
+- the CEO, who has extensive experience in trading and price prediction.
 <br/>
 
 #### Your benefits will include:
