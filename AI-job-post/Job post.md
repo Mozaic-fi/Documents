@@ -98,5 +98,5 @@ Recently we successfully demonstrated omnichain DeFi aggregations that showed a 
 - https://www.tensorflow.org/tutorials/generative/cvae
 
 ##### GAN
-https://arxiv.org/pdf/1701.00160.pdf
+- https://arxiv.org/pdf/1701.00160.pdf
 
