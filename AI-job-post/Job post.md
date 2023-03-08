@@ -36,11 +36,12 @@ True creative, inspiring workplace, working together with ambitious CEO and data
 <br/>
 <br/>
 
-You will be given technical interviews **with the focus on data science and time series/sequence modeling**, including but not limited to:
+##### You will be given technical interviews 
+- **with the focus on data science and time series/sequence modeling**, including but not limited to:
+<br/>
 
 
-
-#### Basic ML techniques required for time series/sequential modeling
+### Basic ML skills for time series/sequential modeling
 
 ##### Backpropagation
 
