@@ -1,4 +1,4 @@
-### Crypto Job Posting, draft 1.
+### Crypto Job Posting, Draft 1.
 
 Mozaic is an AI-powered DeFi startup that helps people efficiently make smart and safe decisions on their crypto activities. Unlike others, we envision tapping into the cutting-edge Machine Learning technology to guide our operating machines to learn quantitatively the underlying process of crypto markets. The system will be a blend of off-chain and on-chain components. The on-chain part will have cross-chain inter-operability between our smart contracts deployed on different, a number of chains.
 <br/>
@@ -17,10 +17,14 @@ Mozaic is an AI-powered DeFi startup that helps people efficiently make smart an
 <br/>
 
 ##### You will be given technical interviews 
-- with questions, the range of which is shown below,
+- with questions, the range of which is shown in Appendix,
 - with requests for the on-site demonstration of programming skills,
 <br/>
 
+<div style="page-break-after: always;"></div>
+<br><br>
+
+### Appendix. Test questions
 
 ##### OOP must-read and test questions
 - https://www.educative.io/blog/object-oriented-programming
@@ -52,5 +56,5 @@ Mozaic is an AI-powered DeFi startup that helps people efficiently make smart an
 - Pancakeswap/Uniswap v2 (core, periphery, farm)
 - Balancer https://balancer.fi/whitepaper.pdf
 - Uniswap v3 https://uniswap.org/blog/uniswap-v3
-- LayerZero https://github.com/LayerZero-Labs/LayerZero
+- LayerZero (optional) https://github.com/LayerZero-Labs/LayerZero
 - https://academy.binance.com/en/articles/impermanent-loss-explained
