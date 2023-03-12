@@ -1,6 +1,6 @@
 ### Crypto Job Posting, Draft 1.
 
-Mozaic is an AI-powered DeFi startup that helps people efficiently make smart and safe decisions on their crypto activities. Unlike others, we envision tapping into the cutting-edge Machine Learning technology to guide our operating machines to learn quantitatively the underlying process of crypto markets. The system will be a blend of off-chain and on-chain components. The on-chain part will have cross-chain inter-operability between our smart contracts deployed on different, a number of chains.
+Mozaic is an AI-powered DeFi startup that helps people efficiently make smart and safe decisions on their crypto activities. Unlike others, we envision tapping into the cutting-edge Machine Learning technology to guide our operating machines to learn quantitatively the underlying process of crypto markets. The system will be a blend of off-chain and on-chain components. The on-chain part will have cross-chain inter-operability between our smart contracts deployed on different chains.
 <br/>
 #### You will be in charge of
 - Developing smart contracts and their SDK, in collaboration with other engineers.
