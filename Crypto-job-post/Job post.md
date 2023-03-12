@@ -11,7 +11,7 @@ Mozaic is an AI-powered DeFi startup that helps people efficiently make smart an
 <br/>
 
 #### You are expected to:
-- Have a good communication skills and work ethics.
+- Have good communication skills and work ethics.
 - Be an experienced OOP programmer,
 - Be familiar with crypto, blockchain, smart contract programming , and dApp/DeFi
 <br/>
